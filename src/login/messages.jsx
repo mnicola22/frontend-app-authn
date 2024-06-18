@@ -3,7 +3,7 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   'login.page.title': {
     id: 'login.page.title',
-    defaultMessage: 'Login | {siteName}',
+    defaultMessage: 'hola logueate | {siteName}',
     description: 'login page title',
   },
   // Login labels
@@ -19,7 +19,7 @@ const messages = defineMessages({
   },
   'sign.in.button': {
     id: 'sign.in.button',
-    defaultMessage: 'Sign in',
+    defaultMessage: 'Entra capo',
     description: 'Sign in button label that appears on login page',
   },
   'forgot.password': {
